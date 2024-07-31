@@ -84,7 +84,7 @@ img.animated.pulse {
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--bs-white);
+    color:green
 }
 
 .navbar .dropdown-toggle::after {
@@ -134,7 +134,7 @@ img.animated.pulse {
     margin-top: -85px;
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: url(../img/bg.png) center center no-repeat;
+  
     background-size: cover;
 }
 
@@ -145,7 +145,7 @@ img.animated.pulse {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(255, 255, 255, .1);
+    /* background: rgba(255, 255, 255, .1); */
     clip-path: polygon(66% 0, 100% 0, 100% 100%, 33% 100%);
 }
 
