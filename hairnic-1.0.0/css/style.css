@@ -181,7 +181,7 @@ img.animated.pulse {
 /*** Deal ***/
 .deal {
     position: relative;
-    background: url(../img/bg.png) center center no-repeat;
+    /* background: url(../img/bg.png) center center no-repeat; */
     background-size: cover;
 }
 
@@ -350,7 +350,7 @@ img.animated.pulse {
 /*** Newsletter ***/
 .newsletter {
     position: relative;
-    background: url(../img/bg.png) center center no-repeat;
+    /* background: url(../img/bg.png) center center no-repeat; */
     background-size: cover;
 }
 
